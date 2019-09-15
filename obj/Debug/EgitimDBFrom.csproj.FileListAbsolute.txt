@@ -1,0 +1,42 @@
+c:\users\user\documents\visual studio 2013\Projects\EgitimDBFrom\bin\Debug\EgitimDBFrom.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\bin\Debug\EgitimDBFrom.exe
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\bin\Debug\EgitimDBFrom.pdb
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form1.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form2.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.exe
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.pdb
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.PersonelEkle.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Rapor.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Egitim.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.RaporEgitim.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.UyeEkle.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.Bolum.resources
+C:\Users\user\documents\visual studio 2013\Projects\EgitimDBFrom\obj\Debug\EgitimDBFrom.RaporBolum.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\bin\Debug\EgitimDBFrom.exe.config
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.exe
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.pdb
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.csprojResolveAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.Bolum.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.Egitim.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form1.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form2.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.PersonelEkle.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.UyeEkle.resources
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\obj\Debug\EgitimDBFrom.csproj.GenerateResource.Cache
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\bin\Debug\EgitimDBFrom.exe
+C:\Users\Ömer Faruk\Desktop\veritabanı\vtys proje\EgitimDBFrom\bin\Debug\EgitimDBFrom.pdb
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.csprojResolveAssemblyReference.cache
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.Bolum.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.Egitim.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form1.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.Form2.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.PersonelEkle.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.Properties.Resources.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.UyeEkle.resources
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.csproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.exe
+C:\Users\sumeyye\Desktop\EgitimDBFrom\obj\Debug\EgitimDBFrom.pdb
